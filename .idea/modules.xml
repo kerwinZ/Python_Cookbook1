@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../6be-linux-inf/.idea/6be-linux-inf.iml" filepath="$PROJECT_DIR$/../6be-linux-inf/.idea/6be-linux-inf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Answer/.idea/Answer.iml" filepath="$PROJECT_DIR$/../Answer/.idea/Answer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AutoTest_Frame/.idea/AutoTest_Frame.iml" filepath="$PROJECT_DIR$/../AutoTest_Frame/.idea/AutoTest_Frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Effective_Python/.idea/Effective_Python.iml" filepath="$PROJECT_DIR$/../Effective_Python/.idea/Effective_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fluent_Python/.idea/Fluent_Python.iml" filepath="$PROJECT_DIR$/../Fluent_Python/.idea/Fluent_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenAI/.idea/OpenAI.iml" filepath="$PROJECT_DIR$/../OpenAI/.idea/OpenAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PytelegramBot/.idea/PytelegramBot.iml" filepath="$PROJECT_DIR$/../PytelegramBot/.idea/PytelegramBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Cookbook.iml" filepath="$PROJECT_DIR$/.idea/Python_Cookbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Crash_Couse/.idea/Python_Crash_Couse.iml" filepath="$PROJECT_DIR$/../Python_Crash_Couse/.idea/Python_Crash_Couse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Script_zk/.idea/Script_zk.iml" filepath="$PROJECT_DIR$/../Script_zk/.idea/Script_zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebDriver/.idea/WebDriver.iml" filepath="$PROJECT_DIR$/../WebDriver/.idea/WebDriver.iml" />
+    </modules>
+  </component>
+</project>

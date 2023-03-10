@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (Python_Cookbook)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Effective_Python" />
+    <orderEntry type="module" module-name="PytelegramBot" />
+    <orderEntry type="module" module-name="Answer" />
+    <orderEntry type="module" module-name="WebDriver" />
+    <orderEntry type="module" module-name="Script_zk" />
+    <orderEntry type="module" module-name="AutoTest_Frame" />
+    <orderEntry type="module" module-name="Python_Crash_Couse" />
+    <orderEntry type="module" module-name="Fluent_Python" />
+    <orderEntry type="module" module-name="6be-linux-inf" />
+    <orderEntry type="module" module-name="OpenAI" />
+  </component>
+</module>
